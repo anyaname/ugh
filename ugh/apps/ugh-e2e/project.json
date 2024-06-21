@@ -1,0 +1,9 @@
+{
+  "name": "ugh-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/ugh-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["ugh"],
+  "// targets": "to see all targets run: nx show project ugh-e2e --web",
+  "targets": {}
+}
